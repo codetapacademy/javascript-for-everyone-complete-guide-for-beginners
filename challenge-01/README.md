@@ -1,4 +1,6 @@
 # Print success in the console
+Using ***console.log()***
+
 1. Print in the console of your browser or your command line the following:
 
   * Flavius got hired and promoted thanks to CodeTap
